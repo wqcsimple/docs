@@ -2,5 +2,5 @@
 
 # Whis 文档仓库 <small>1.0</small>
 
-[GitHub](https://github.com/wqcsimple)
+[博客](https://whis.wang)
 [进入文档](/home)

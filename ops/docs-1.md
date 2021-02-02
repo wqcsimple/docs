@@ -1,19 +1,11 @@
-1
-爱是滴哦我清号我去hi哦而我却和
+# 常规命令
 
+## 标题1
+    ::: danger
+    这是一个危险警告
+    :::
+### 标题1-1
 
-```json
-{
-  "name": "whis"
-}
-```
-```bash
-echo "hello"
-```
+## 标题2
 
-```php
-function getAdder(int $x): int 
-{
-    return 123;
-}
-```
+### 标题2-1
